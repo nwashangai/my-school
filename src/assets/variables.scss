@@ -1,0 +1,21 @@
+$palette: (
+  primary: #f0f0ee,
+  danger: #ca2727,
+  input: #676969,
+  tag: #8b8b8b,
+  background: #f9fafa,
+  hover-color: #2453d4,
+  hover-bg: #f4f6f8,
+  border-line: #e2e2e2,
+  secondary: #1f1e1e,
+  pure: #fff,
+  dark: #000,
+  card-border: rgb(238, 240, 241),
+  transparent: rgba(238, 240, 241, 0)
+);
+
+$break-point: rem(600px);
+
+.cursor {
+  cursor: pointer;
+}

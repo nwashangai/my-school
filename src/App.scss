@@ -1,0 +1,15 @@
+@import 'sass-rem';
+@import './assets/variables';
+
+.App {
+  position: relative;
+  height: 100%;
+
+  @media (min-width: $break-point) {
+    //
+  }
+
+  @media (max-width: $break-point) {
+    //
+  }
+}
